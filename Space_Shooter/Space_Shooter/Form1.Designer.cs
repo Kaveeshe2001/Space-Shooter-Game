@@ -28,13 +28,21 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            this.MoveBgTimer = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
+            // 
+            // MoveBgTimer
+            // 
+            this.MoveBgTimer.Enabled = true;
+            this.MoveBgTimer.Interval = 10;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.DarkBlue;
             this.ClientSize = new System.Drawing.Size(582, 453);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximumSize = new System.Drawing.Size(600, 500);
@@ -45,6 +53,8 @@
         }
 
         #endregion
+
+        private System.Windows.Forms.Timer MoveBgTimer;
     }
 }
 

@@ -1,0 +1,10 @@
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\bin\Debug\Space_Shooter.exe.config
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\bin\Debug\Space_Shooter.exe
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\bin\Debug\Space_Shooter.pdb
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\obj\Debug\Space_Shooter.csproj.AssemblyReference.cache
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\obj\Debug\Space_Shooter.Form1.resources
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\obj\Debug\Space_Shooter.Properties.Resources.resources
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\obj\Debug\Space_Shooter.csproj.GenerateResource.cache
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\obj\Debug\Space_Shooter.csproj.CoreCompileInputs.cache
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\obj\Debug\Space_Shooter.exe
+E:\My Project 2\Space-Shooter-Game\Space_Shooter\Space_Shooter\obj\Debug\Space_Shooter.pdb
